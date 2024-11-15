@@ -73,7 +73,7 @@ Outputnya:
 | 1  | Zainal  | 312410215 | 80    | 80  | 70  | 76.50 |
 --------------------------------------------------
 
-Kesimpulan
+# Kesimpulan
 Program ini memudahkan pengguna untuk menginput data nilai mahasiswa, menghitung nilai akhir berdasarkan bobot, dan menampilkannya dalam tabel yang rapi.
 
 
